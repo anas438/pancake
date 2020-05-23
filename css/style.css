@@ -1,0 +1,515 @@
+/*Author Info
+Name:Anas Ahmed;
+Mail :anasforhad@gmail.com;
+website:xyz.com;
+*/
+
+/*
+
+=====Index=====
+
+1.Fusce at
+2.Facilisis
+3.Ante donec
+4.Blandit rhoncus
+5.Placerat
+
+==========
+*/
+
+
+/*google font 
+
+'Roboto Slab', serif;
+
+*/
+
+/*  global css */
+
+h1{
+    color: white;
+    font-size: 30px;
+    margin: 20px 0px;
+}
+h2{
+	
+}
+
+h3{
+	
+}
+
+h4{
+	
+}
+
+h5{
+	
+}
+
+p{
+
+   color: white;
+   font-size: 10px;
+   text-align:center;
+}
+
+
+
+.btn-cstm-one{
+
+}
+
+
+/* Normal css*/
+
+.nav-head{
+	background-color: #edeff1;
+	padding:10px 0px;
+	font-family: 'Roboto Slab', serif;
+
+}
+.nav-item {
+    
+    padding: 17px 3px;
+    
+    font-size: 20px;
+}
+
+
+.nav-link{
+	color: black	
+}
+
+
+.nav-link.js-scroll-trigger.active {
+    background-color: #e2802c;
+    color: white;
+    border-radius: 15px;
+    padding: 3px 18px;
+}
+
+.fa.fa-home{
+	color:#dd4b2b; 
+}
+
+
+/* Fusce at strt*/
+
+.hero{
+	background: url(../img/02.png) center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto Slab', serif;
+}
+
+.hero-top {
+    text-align: center;
+    margin-top: 382px;
+}
+
+.hero-top h2 {
+    color: white;
+    font-size: 60px;
+}
+
+.hero-top p {
+    color: white;
+    font-size: 19px;
+    margin-bottom: 107px;
+}
+
+.logo-head{
+   text-align: center;
+   margin:0px 50px
+}
+
+.btn-cstm {
+    margin: 70px auto 100px;
+    background: white;
+    color: darkred;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 32px;
+    font-size: 15px;
+    transition: 0.7s ease;
+}
+
+.btn-cstm:hover {
+   background-color: #dd4b2b;
+}
+
+/* Fusce at end */
+
+
+
+/*Facilisis strat*/
+
+.part {
+    background-color: #edeff1;
+}
+
+.part-one{
+
+}
+.part-one h2 {
+    text-align: center;
+    margin: 50px auto 50px;
+    font-size: 30px;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+}
+.news-one {
+    margin: 10px 9px;
+}
+
+.news-one h1 {
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.news-one p {
+    color: gray;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif
+}
+
+.btn-cstm-one {
+    margin: 30px auto 40px;
+    display: block;
+    background: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 40px;
+    transition: 0.7s ease;
+    font-family: 'Roboto Slab', serif
+}
+
+.btn-cstm-one:hover {
+	background-color: #dd4b2b;
+}
+
+/*Facilisis end*/
+
+/* Ante donec section strt*/
+
+
+.bnnr {
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/09.png)center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bnnr-one{
+
+}
+
+.bnnr-one h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 33px;
+    margin: 35px auto 12px;
+    font-family: 'Roboto Slab', serif;
+}
+.bnnr-one p {
+    font-size: 15px;
+    text-align: center;
+    padding: 0px 273px;
+    display: block;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+.cntrl {
+    margin-left: 422px;
+}
+.input {
+    background: transparent;
+    color: #f9f9f9;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px 24px;
+    position: relative;
+    margin: 58px auto 58px;
+    font-size: 17px;
+    transition: 0.5s ease;
+    outline: none;
+}
+
+
+.input:hover{
+	border: 1px solid #dd4b2b;
+}
+.input-one {
+    border: white;
+    position: absolute;
+    padding: 8px 23px;
+    font-size: 15px;
+    border-radius: 20px;
+    transition: 0.5s ease;
+    top: 38%;
+    right: 54%;
+}
+
+.input-one:hover {
+	background-color: #dd4b2b; 
+}
+
+/* Ante donec section end*/
+
+/*Blandit rhoncus section strt */
+
+.pera-one {
+    margin-top: 68px;
+}
+
+
+
+.pera-one h2 {
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+.pera-one p {
+    color: black;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+.btn-cstm-two {
+    display: block;
+    background: #dd4b2b;
+    color: #fff;
+    padding: 8px 30px 8px;
+    border: none;
+    border-radius: 20px;
+    margin: 48px 0px 0px;
+}
+.btn-cstm-two:hover{
+	background: #0062cc;
+	color: #fff;
+}
+
+
+.pera-two {
+    margin-top: 39px;
+    margin-left: 48px;
+}
+
+.pera-two img {
+    margin: 30px 50px;
+    width: 450px;
+    height: 300px;
+}
+
+.pera-three {
+    margin-bottom: 39px;
+    margin-top: 39px;
+    margin-left: 48px;
+}
+
+.pera-three img {
+
+    margin: 30px 50px;
+    width: 450px;
+    height: 300px;
+}
+
+.pera-four{
+  
+    margin-top: 68px;
+
+}
+
+.pera-four h2 {
+	margin-bottom: 15px;
+    font-size: 40px;
+
+}
+
+.pera-four p {
+	color: black;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.btn-cstm-three{
+    display: block;
+    background: #0062cc;
+    color: #fff;
+    padding: 8px 30px 8px;
+    border: none;
+    border-radius: 20px;
+    margin: 48px 0px 0px;
+}
+.btn-cstm-three:hover{
+	background-color: #dd4b2b;
+	color: #fff;
+}
+/*Blandit rhoncus section end */
+
+
+/*Placerat section strt */
+    
+.title {
+    background: #dd4b2b;
+    padding: 70px 0px 40px;
+    text-align: center;
+}
+
+.title-one{
+
+}
+
+.title-two{
+	
+}  
+
+.title-three{
+	
+} 
+
+ul {
+    margin: 104px;
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+ul li {
+    color: #fff;
+    margin: 10px auto;
+}
+
+
+
+
+/*Placerat section end */
+
+
+/*footer strt*/
+
+.bg{
+	background: url(../img/09.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.lst p {
+    font-size: 14px;
+    margin: 43px 50px;
+}
+
+/* footer end */
+
+
+/* media*/
+
+@media (min-width: 320px) and (max-width:500px) { 
+ 
+.navbar-brand.js-scroll-trigger img{
+	width: 70%;
+  margin: 0px 20px;
+}
+
+.hero-top h2{
+	color:tomato;
+	font-size: 40px;
+	padding-top: 260px;
+  
+}
+.hero-top p{
+	color: #fff;
+	font-size: 20px ;
+	margin: 70px 0px 130px;
+  
+}
+.nav-link.js-scroll-trigger{
+   text-align: center;
+}
+
+.nav-link.js-scroll-trigger.active{
+   text-align: center;
+}
+
+.logo-head p{
+	
+    font-size: 15px;
+    margin-bottom: 50px
+ 
+}
+.input{
+  margin:50px 30px 80px 50px;
+	
+	
+}
+
+.input-one{
+    right: 70px;
+ 
+}
+.pera-one h2{
+
+	font-size: 35px;
+	margin: 70px 0px 30px;
+	 text-align: center;
+}
+
+.pera-one p{
+	margin: 20px 0px;
+	font-size: 13px;
+    text-align: center;
+    	
+}
+.pera img{
+    display: block;
+	margin:0px auto;
+    width: 350px;
+	height: 250px;
+}
+
+.btn-cstm-two{
+	margin: 40px auto 0px;
+
+}
+.shawon{
+	border: 3px solid tomato;
+    margin: 0px auto 40px;
+    width: 80px;
+}
+
+.pera-four h2{
+    text-align: center;
+	font-size: 35px;
+	margin: 50px 0px 30px;
+}
+
+.pera-four p{
+	margin: 20px 0px;
+	font-size: 13px;
+    text-align: center;
+}
+.pera-three img{
+    display: block;
+	margin:0px auto;
+    width: 350px;
+	height: 250px;
+
+}
+
+
+.btn-cstm-three{
+	margin: 40px auto 0px;
+}
+
+.lst p{
+
+	font-size: 13px;
+	
+}
+
+ ul li{
+   font-size: 15px;
+
+}
